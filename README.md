@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/pr7ed5r7a7a09sti?svg=true)](https://ci.appveyor.com/project/MKSInc/ajs-hw-9-arraybuffer-2-arraybuffer)
+
 # 9. Домашнее задание к лекции «`ArrayBuffer`»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
